@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello 👋, my name is Ram Reddy
+
+## I'm a student at Thomas Jefferson High School for Science and Technology
+#
+### I love programming for fun!
+### I have thorough experience with Java, Python, HTML and CSS
+### I have experience with JavaScript, Git, NodeJS, PostgreSQL, React and Tensorflow
+
+[![Ram Reddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramnreddy15&layout=compact&theme=onedark)](https://github.com/ramnreddy15/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramnreddy15&layout=compact&theme=onedark)](https://github.com/ramnreddy15/github-readme-stats)
 
 <!--
 **ramnreddy15/ramnreddy15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
