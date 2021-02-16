@@ -3,8 +3,7 @@
 ## I'm a student at Thomas Jefferson High School for Science and Technology
 #
 ### I love programming for fun!
-### I have thorough experience with Java, Python, HTML and JavaScript
-### I have experience with CSS, Git, NodeJS, PostgreSQL, React and Tensorflow
+### Hopefully you find some cool stuff here!
 
 [![Ram Reddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramnreddy15&layout=compact&theme=onedark)](https://github.com/ramnreddy15/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramnreddy15&layout=compact&theme=onedark)](https://github.com/ramnreddy15/github-readme-stats)
