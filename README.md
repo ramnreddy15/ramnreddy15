@@ -1,6 +1,6 @@
 # Hello 👋, my name is Ram Reddy
 
-## I'm a studing computer engineering at the University of Illinois at Urbana Champaign
+## I'm studying computer engineering at the University of Illinois at Urbana Champaign
 &nbsp;
 ### I love programming for fun!
 ### Hopefully you find some cool stuff here!
